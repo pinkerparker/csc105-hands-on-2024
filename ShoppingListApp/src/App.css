@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  background-color: aliceblue;
+}
+
+button {
+  margin: 5px;
+  padding: 5px;
+}
+
+input {
+  padding: 8px;
+  background-color: lemonchiffon;
+  border-radius: 5px;
+  border: 0cap;
+}
+
+.editbutton{
+  color: white;
+  background-color: lightskyblue;
+  
+}
+
+.removebutton {
+  color: white;
+  background-color: rgb(255, 206, 224);
+  margin-right: 0;
+  
+}
+
+.changeStatus{
+  text-decoration: line-through;
+  background-color: rgb(201, 201, 201);
+  padding: 5px;
+  margin: 3px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+ul{
+  padding: 3px;
+}
+.boxlist{
+  
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  padding: 5px;
+  margin: 3px;
+
+}
+
+.addbutton {
+  background-color: rgb(220, 202, 255);
+  color: white;
+}
+
+
+
+
+
